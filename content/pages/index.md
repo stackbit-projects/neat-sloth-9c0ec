@@ -1,11 +1,10 @@
 ---
 title: Home
 has_intro: true
-intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+intro_content: >
+  Hi! I'm a 20 year-old Computer Science student who likes writing to a certain
+  extent. On my free time, I study foreign languages and design. I hope to be a
+  great creative technologist in a near future.
 intro_actions:
   - label: Learn More
     url: /about
